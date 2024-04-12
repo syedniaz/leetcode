@@ -4,5 +4,5 @@ class Solution:
         for j in jewels:
             for s in stones:
                 if (j == s):
-                    count += 1
-        return count
+                    couns += 1
+        return couns
